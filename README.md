@@ -58,7 +58,7 @@ models/     trained checkpoints (LSTM, Naive Bayes)
 data/       dataset instructions (raw datasets not redistributed)
 ```
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for full technical details, model configuration, training setup, and evaluation notes.
+See [ARCHITECTURE.md](docs/ARCHITECTURE.md) for full technical details, model configuration, training setup, and evaluation notes.
 
 ## Author
 
